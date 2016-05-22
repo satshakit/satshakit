@@ -40,6 +40,8 @@ Here is a comparison table about different satshakit boards:
 |`satshakit micro`| ATmega328P|Arduino|40 x 24|
 |`satshakit flight controller`| ATmega328P|MultiWii|48 x 48|
 
+Here you can find all of the satshakit boards: [satshakit organization](https://github.com/satshakit).
+
 satshakit laser and cnc
 --
 
