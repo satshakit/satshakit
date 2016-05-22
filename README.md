@@ -164,7 +164,7 @@ Once everything is connected, follow these steps to upload Arduino bootloader:
 3. select Arduino UNO as board
 4. click on tools->Burn Bootloader
 
-With you made a satshakit cnc or satshakit laser you can use an **FTDI USB cable to upload and use you favourite sketch** without the need to use a programmer anymore.
+With a satshakit cnc or satshakit laser you can use an **FTDI USB cable to upload and use you favourite sketch** without the need to use a programmer anymore.
 
 Here is the connection schema to program a satshakit using the FTDI cable:
 
