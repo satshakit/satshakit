@@ -58,18 +58,18 @@ And this is the **satshakit cnc board**:
 
 **downloads (right click, download as)**
 
-- [satshakit cnc svg](https://raw.githubusercontent.com/satshas/satshakit/master/media/satshakit_cnc/satshakit_cnc.svg)
-- [satshakit cnc internal png](https://raw.githubusercontent.com/satshas/satshakit/master/media/satshakit_cnc/satshakit_cnc_internal.png)
-- [satshakit cnc holes png](https://raw.githubusercontent.com/satshas/satshakit/master/media/satshakit_cnc/satshakit_cnc_holes.png)
-- [satshakit cnc cut png](https://raw.githubusercontent.com/satshas/satshakit/master/media/satshakit_cnc/satshakit_cnc_cut.png)
-- [satshakit cnc cut tips png](https://raw.githubusercontent.com/satshas/satshakit/master/media/satshakit_cnc/satshakit_cnc_cut_tip.png)
-- [satshakit cnc schematic](https://raw.githubusercontent.com/satshas/satshakit/master/eagle_projects/satshakit_cnc/satshakit_cnc.sch)
-- [satshakit cnc board](https://raw.githubusercontent.com/satshas/satshakit/master/eagle_projects/satshakit_cnc/satshakit_cnc.brd)
-- [satshakit laser svg](https://raw.githubusercontent.com/satshas/satshakit/master/media/satshakit_laser/satshakit_laser.svg)
-- [satshakit laser schematic](https://raw.githubusercontent.com/satshas/satshakit/master/eagle_projects/satshakit_laser/satshakit_laser.sch)
-- [satshakit laser board](https://raw.githubusercontent.com/satshas/satshakit/master/eagle_projects/satshakit_laser/satshakit_laser.brd)
-- [satshakit laser and cnc BOM Open Document](https://github.com/satshas/satshakit/raw/master/docs/satshakit/satshakit_BOM.ods)
-- [satshakit laser and cnc BOM Excel](https://github.com/satshas/satshakit/raw/master/docs/satshakit/satshakit_BOM.xlsx)
+- [satshakit cnc svg](https://raw.githubusercontent.com/satshakit/satshakit/master/media/satshakit_cnc/satshakit_cnc.svg)
+- [satshakit cnc internal png](https://raw.githubusercontent.com/satshakit/satshakit/master/media/satshakit_cnc/satshakit_cnc_internal.png)
+- [satshakit cnc holes png](https://raw.githubusercontent.com/satshakit/satshakit/master/media/satshakit_cnc/satshakit_cnc_holes.png)
+- [satshakit cnc cut png](https://raw.githubusercontent.com/satshakit/satshakit/master/media/satshakit_cnc/satshakit_cnc_cut.png)
+- [satshakit cnc cut tips png](https://raw.githubusercontent.com/satshakit/satshakit/master/media/satshakit_cnc/satshakit_cnc_cut_tip.png)
+- [satshakit cnc schematic](https://raw.githubusercontent.com/satshakit/satshakit/master/eagle_projects/satshakit_cnc/satshakit_cnc.sch)
+- [satshakit cnc board](https://raw.githubusercontent.com/satshakit/satshakit/master/eagle_projects/satshakit_cnc/satshakit_cnc.brd)
+- [satshakit laser svg](https://raw.githubusercontent.com/satshakit/satshakit/master/media/satshakit_laser/satshakit_laser.svg)
+- [satshakit laser schematic](https://raw.githubusercontent.com/satshakit/satshakit/master/eagle_projects/satshakit_laser/satshakit_laser.sch)
+- [satshakit laser board](https://raw.githubusercontent.com/satshakit/satshakit/master/eagle_projects/satshakit_laser/satshakit_laser.brd)
+- [satshakit laser and cnc BOM Open Document](https://github.com/satshakit/satshakit/raw/master/docs/satshakit/satshakit_BOM.ods)
+- [satshakit laser and cnc BOM Excel](https://github.com/satshakit/satshakit/raw/master/docs/satshakit/satshakit_BOM.xlsx)
 
 **media**
 
@@ -139,8 +139,8 @@ Due to the power requirements of a multicore satshakit system and to eventually 
 
 **downloads (right click, download as)**
 
-- [satshakit power board schematic](https://raw.githubusercontent.com/satshas/satshakit/master/eagle_projects/satshakit_power_board/satshakit_power_board.sch)
-- [satshakit power board board](https://raw.githubusercontent.com/satshas/satshakit/master/eagle_projects/satshakit_power_board/satshakit_power_board.brd)
+- [satshakit power board schematic](https://raw.githubusercontent.com/satshakit/satshakit/master/eagle_projects/satshakit_power_board/satshakit_power_board.sch)
+- [satshakit power board board](https://raw.githubusercontent.com/satshakit/satshakit/master/eagle_projects/satshakit_power_board/satshakit_power_board.brd)
 
 Here is a picture of a soldered power board:
 
@@ -178,9 +178,9 @@ To use a satshakit like an Arduino, here is the Arduino pinout on satshakit cnc 
 
 What's in the repo
 --
-- **[docs](https://github.com/satshas/satshakit/tree/master/docs)**: BOM files for Farnell
-- **[egle projects](https://github.com/satshas/satshakit/tree/master/eagle_projects)**: eagle projects of satshakit
-- **[media](https://github.com/satshas/satshakit/tree/master/media)**: svg of satshakits, connections schemas, images for cnc milling machine and fiber laser cutter, other images
+- **[docs](https://github.com/satshakit/satshakit/tree/master/docs)**: BOM files for Farnell
+- **[egle projects](https://github.com/satshakit/satshakit/tree/master/eagle_projects)**: eagle projects of satshakit
+- **[media](https://github.com/satshakit/satshakit/tree/master/media)**: svg of satshakits, connections schemas, images for cnc milling machine and fiber laser cutter, other images
 
 Authors
 --
