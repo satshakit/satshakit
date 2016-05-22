@@ -34,10 +34,11 @@ Here is a comparison table about different satshakit boards:
 
 |name|mcu|pins|size(mm)|
 | :---: | :---:|:---:|:---:|
-|`satshakit laser`|ATmega328P|Arduino + ADC6/7|48 x 42|
-|`satshakit cnc`|ATmega328P| Arduino + ADC6/7  |54 x 45|
-|`satshakit multicore`|2 x ATmega328P| 2 x Arduino + ADC6/7|50 x 42|
-|`satshakit micro`| ATmega328P|Arduino|40 x 24|
+|`[satshakit laser](https://github.com/satshakit/satshakit)`|ATmega328P|Arduino + ADC6/7|48 x 42|
+|`[satshakit cnc](https://github.com/satshakit/satshakit)`|ATmega328P| Arduino + ADC6/7  |54 x 45|
+|`[satshakit multicore](https://github.com/satshakit/satshakit-multicore)`|2 x ATmega328P| 2 x Arduino + ADC6/7|50 x 42|
+|`[satshakit micro](https://github.com/satshakit/satshakit-micro)`| ATmega328P|Arduino|40 x 24|
+|`[satshakit flight controller](https://github.com/satshakit/satshakit-flight-controller)`| ATmega328P|MultiWii|48 x 48|
 
 satshakit laser and cnc
 --
