@@ -36,11 +36,11 @@ Here is a comparison table about different satshakit boards:
 | :---: | :---:|:---:|:---:|
 |`satshakit laser`|ATmega328P|Arduino + ADC6/7|48 x 42|
 |`satshakit cnc`|ATmega328P| Arduino + ADC6/7  |54 x 45|
-|`satshakit multicore`](https://github.com/satshakit/satshakit-multicore)`|2 x ATmega328P| 2 x Arduino + ADC6/7|50 x 42|
+|`satshakit multicore`|2 x ATmega328P| 2 x Arduino + ADC6/7|50 x 42|
 |`satshakit micro`| ATmega328P|Arduino|40 x 24|
 |`satshakit flight controller`| ATmega328P|MultiWii|48 x 48|
 
-Here you can find all of the satshakit boards: [satshakit organization](https://github.com/satshakit).
+Here you can find all of the satshakit boards: **[satshakit organization](https://github.com/satshakit)**.
 
 satshakit laser and cnc
 --
