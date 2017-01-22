@@ -23,25 +23,6 @@ Main **improvements and features** over Fabkit are:
 - ADC6/7 connected instead of ADC6/7 not connected (satshakit laser and cnc)
 - larger space to easy soldering (satshakit laser and cnc)
 
-satshakit boards
---
-
-There are different kinds of **satshakit boards** depending on the **fabrication technique** you will use to make them, or on the **size** of the board. 
-
-<img src="media/readme/satshakit_versions.jpg" width="70%">
-
-Here is a comparison table about different satshakit boards:
-
-|name|mcu|pins|size(mm)|
-| :---: | :---:|:---:|:---:|
-|`satshakit laser`|ATmega328P|Arduino + ADC6/7|48 x 42|
-|`satshakit cnc`|ATmega328P| Arduino + ADC6/7  |54 x 45|
-|`satshakit multicore`|2 x ATmega328P| 2 x Arduino + ADC6/7|50 x 42|
-|`satshakit micro`| ATmega328P|Arduino|40 x 24|
-|`satshakit flight controller`| ATmega328P|MultiWii|48 x 48|
-
-Here you can find all of the satshakit boards: **[satshakit organization](https://github.com/satshakit)**.
-
 satshakit laser and cnc
 --
 
