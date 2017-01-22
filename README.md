@@ -23,7 +23,7 @@ Main **improvements and features** over Fabkit are:
 - ADC6/7 connected instead of ADC6/7 not connected (satshakit laser and cnc)
 - larger space to easy soldering (satshakit laser and cnc)
 
-Find here all the available satshakit boards: [satshakit github organization](https://github.com/satshakit)
+Find here all the available satshakit boards: **[satshakit github organization](https://github.com/satshakit)**
 
 satshakit laser and cnc
 --
